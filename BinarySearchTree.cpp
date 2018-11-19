@@ -1,3 +1,7 @@
+//kimjuhyang
+//BST 삽입/삭제 - 높이, 노드개수 판단
+//BST insert/delete - recursive (subtree height, subtree node count)
+
 #include <stdio.h>
 #include <iostream>
 
